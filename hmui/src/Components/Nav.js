@@ -25,7 +25,7 @@ const Nav = ({ data }) => {
 
                     <NavLink to="/dashboard" className="flex items-center">
                         <img src="Capture.png" className="h-8 mr-3" alt="cat" />
-                        <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">HRified</span>
+                        <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">RecruitFlow</span>
                     </NavLink>
                     <div className="flex md:order-2">
 
